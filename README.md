@@ -1,4 +1,4 @@
-# Solving-Real-World-Business-Questions-with-Python-Pandas
+# Solving Real World Business Questions with Python Pandas
 This is the complete source code of my article on Medium: <br>
 https://medium.com/li-ting-liao-tiffany/solving-real-world-business-questions-with-pandas-70ef8ef02675
 
