@@ -20,4 +20,4 @@ I'm using Python3 in anaconda.
 * Plot charts using pandas DataFrame method
 
 ## Notes for files
-* sales_all.py: main codes which was used in anaconda environment.
+* sales_all.py: main codes which were used in anaconda environment.
