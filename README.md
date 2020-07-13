@@ -18,3 +18,6 @@ I'm using Python3 in anaconda.
 * Use .apply, .transform, .map functions to manipulate cells
 * Use .groupby function to perform aggregate analysis
 * Plot charts using pandas DataFrame method
+
+## Notes for files
+* sales_all.py: main codes which was used in anaconda environment.
